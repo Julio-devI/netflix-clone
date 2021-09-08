@@ -6,6 +6,10 @@
     margin: 0px 0px 0px 30px;
 }
 
+.movieRow--list{
+    transition: all ease 0.5s;
+}
+
 .movieRow--listarea {
     overflow-x: hidden;
     padding-left: 30px;
